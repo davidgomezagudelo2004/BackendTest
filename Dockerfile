@@ -1,5 +1,5 @@
 # Etapa 1: Compilación
-FROM maven:3.9.4-eclipse-temurin-22 as build
+FROM maven:3.9.4-openjdk-22 as build
 WORKDIR /app
 COPY pom.xml .
 COPY src ./src
