@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.api.backend.BackendApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 53.95 s -- in com.api.backend.BackendApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 50.69 s -- in com.api.backend.BackendApplicationTests
